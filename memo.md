@@ -45,3 +45,16 @@ for(int i = 0; i<n; i++){
 }
 ```
 
+出力
+```Java
+char a = ' ';
+int b = 1000;
+sb.append(a).append(b);
+```
+
+```Java
+char a = ' ';
+int b = 1000;
+sb.append(a);
+sb.append(b);
+```
