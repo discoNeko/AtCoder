@@ -7,6 +7,7 @@ ID : fham
 ### Java
 [Java競技プログラミングメモ](http://qiita.com/p_shiki37/items/65c18f88f4d24b2c528b)  
 [BitSet](https://docs.oracle.com/javase/jp/8/docs/api/java/util/BitSet.html)  
+[TreeSet](http://docs.oracle.com/javase/jp/7/api/java/util/TreeSet.html)  
 
 ### Scala
 [Scala](http://www.ne.jp/asahi/hishidama/home/tech/scala/index.html)  
