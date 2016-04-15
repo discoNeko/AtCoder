@@ -14,3 +14,6 @@ ID : fham
 ### Scala
 [Scala](http://www.ne.jp/asahi/hishidama/home/tech/scala/index.html)  
 [ScalaとJavaの相違点の箇条書き](http://blog.mwsoft.jp/article/47056512.html)  
+
+### algorithm
+[数え上げの問題](http://nagoyacoder.web.fc2.com/topcoder/topcoder_cpp4.html)  
